@@ -46,9 +46,9 @@ public class Example {
 > This is a quote.
 
 --- Reference Links: Create reference links ---  
-[My GitHub Profile][1]
-[My LinkedIn Profile][2]
-[My Twitter Profile][3]
+[My GitHub Profile][1]  
+[My LinkedIn Profile][2]  
+[My Twitter Profile][3]  
 
 
 [1]: https://github.com/FaezehYazdani
