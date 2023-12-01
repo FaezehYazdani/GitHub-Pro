@@ -40,14 +40,17 @@ public class Example {
 
 
 --- Images: Embed images ---  
-![GitHub](![image](https://github.com/FaezehYazdani/GitHub-Pro/assets/25254193/eb85970d-e66a-42fa-b347-31a3f9b8aa8a))
+![GitHub](![image](https://github.com/FaezehYazdani/GitHub-Pro/assets/25254193/63acea66-5e39-4407-ad44-154fbefbc3b2)
+)
 
 --- Quoting Text: Quote text ---  
 > This is a quote.
 
---- Reference Links: Create reference links ---
+--- Reference Links: Create reference links ---  
 [Link Text][1]
+
 [1]: https://www.example.com
+
  
 --- Math Expressions: Write mathematical expressions using LaTeX ---  
 $E = mc^2$
