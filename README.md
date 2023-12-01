@@ -24,11 +24,13 @@ An exhaustive and comprehensive compilation of essential GitHub tips and tricks,
 | Cell 1   | Cell 2   |
 
 --- Code Blocks: Display code blocks with syntax highlighting ---  
+```
 public class Example {
     public static void main(String[] args) {
         System.out.println("Hello, GitHub!");
     }
 }
+```
 
 --- Emojis: Add emojis to your content ---  
 :smiley: :rocket: :octocat:
@@ -43,7 +45,7 @@ public class Example {
 --- Quoting Text: Quote text ---  
 > This is a quote.
 
---- Reference Links: Create reference links ---  
+--- Reference Links: Create reference links ---
 [Link Text][1]
 [1]: https://www.example.com
 
@@ -54,15 +56,10 @@ graph TD;
   A-->C;
   B-->D;
   C-->D;
-
---- Math Expressions: Write mathematical expressions using LaTeX ---  
-$$
-E = mc^2
-$$
-
+  
+--- Math Expressions: Write mathematical expressions using LaTeX ---
+$E = mc^2$
 
 ---  Strike Through: Strike through text ---  
 ~~This text is strikethrough.~~
 
---- Automatic URL Linking: URLs are automatically converted to links ---  
-https://www.example.com
