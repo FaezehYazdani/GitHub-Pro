@@ -4,63 +4,65 @@ An exhaustive and comprehensive compilation of essential GitHub tips and tricks,
 
 # Useful GitHub Markdown
 
---- Markdown: Used for README files, issues, and pull requests ---
+--- Markdown: Used for README files, issues, and pull requests ---  
 # Heading 1
 ## Heading 2
 *italic*, **bold**, `code`
 - Bullet points
 
---- HTML: GitHub allows the use of HTML for more complex formatting ---
+--- HTML: GitHub allows the use of HTML for more complex formatting ---  
 <div style="color: red;">This is red text.</div>
 
---- Task Lists: Create task lists in issues and pull requests ---
+--- Task Lists: Create task lists in issues and pull requests ---  
 - [x] Completed task
 - [ ] Incomplete task 1
 - [ ] Incomplete task 2
 
---- Tables: Create tables for better organization ---
+--- Tables: Create tables for better organization ---  
 | Header 1 | Header 2 |
 |----------|----------|
 | Cell 1   | Cell 2   |
 
---- Code Blocks: Display code blocks with syntax highlighting ---
+--- Code Blocks: Display code blocks with syntax highlighting ---  
 public class Example {
     public static void main(String[] args) {
         System.out.println("Hello, GitHub!");
     }
 }
 
---- Emojis: Add emojis to your content ---
+--- Emojis: Add emojis to your content ---  
 :smiley: :rocket: :octocat:
 
---- Headers and Links: Create links and headers ---
-[Link Text](https://www.example.com)
+--- Headers and Links: Create links and headers ---  
+[GitHub]([https://www.example.com](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg))
 ### Section Header
 
---- Images: Embed images ---
+--- Images: Embed images ---  
 ![Alt Text](https://example.com/image.jpg)
 
---- Quoting Text: Quote text ---
+--- Quoting Text: Quote text ---  
 > This is a quote.
 
---- Reference Links: Create reference links ---
+--- Reference Links: Create reference links ---  
 [Link Text][1]
 [1]: https://www.example.com
 
---- Mermaid Diagrams: Generate diagrams using the Mermaid syntax ---
+
+--- Mermaid Diagrams: Generate diagrams using the Mermaid syntax ---  
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
 
---- Math Expressions: Write mathematical expressions using LaTeX ---
+--- Math Expressions: Write mathematical expressions using LaTeX ---  
 $$
 E = mc^2
 $$
 
----  Strike Through: Strike through text ---
+
+---  Strike Through: Strike through text ---  
 ~~This text is strikethrough.~~
 
---- Automatic URL Linking: URLs are automatically converted to links ---
+--- Automatic URL Linking: URLs are automatically converted to links ---  
 https://www.example.com
