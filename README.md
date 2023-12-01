@@ -60,5 +60,7 @@ public class Example {
 $E = mc^2$
 
 ---  Strike Through: Strike through text ---  
-~~This text is strikethrough.~~
+~~This text is strikethrough.~~  
+
+Note: if you wanna make sure you are on a new line you need to add 2 spaces at the end of the previous line.
 
