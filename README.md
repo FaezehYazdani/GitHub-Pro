@@ -51,9 +51,9 @@ public class Example {
 [My Twitter Profile][3]  
 
 
-[1]: https://github.com/FaezehYazdani
-[2]: https://www.linkedin.com/in/faezehyazdani/
-[3]: https://twitter.com/FaeYazdani
+[1]: https://github.com/FaezehYazdani  
+[2]: https://www.linkedin.com/in/faezehyazdani/  
+[3]: https://twitter.com/FaeYazdani  
 
  
 --- Math Expressions: Write mathematical expressions using LaTeX ---  
