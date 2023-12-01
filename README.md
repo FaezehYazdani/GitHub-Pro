@@ -1,4 +1,4 @@
-# GitHub-Pro - A Cheat Sheet For You To Use GitHub
+# GitHub-Pro
 
 An exhaustive and comprehensive compilation of essential GitHub tips and tricks, serving as a comprehensive reference guide for both novice and experienced users. This cheat sheet encompasses a wide array of GitHub functionalities, offering insights into efficient workflow practices, advanced version control techniques, collaboration strategies, and effective utilization of GitHub's features.
 
@@ -40,16 +40,20 @@ public class Example {
 
 
 --- Images: Embed images ---  
-![GitHub](![image](https://github.com/FaezehYazdani/GitHub-Pro/assets/25254193/63acea66-5e39-4407-ad44-154fbefbc3b2)
-)
+![GitHub](sample-image.png)
 
 --- Quoting Text: Quote text ---  
 > This is a quote.
 
 --- Reference Links: Create reference links ---  
-[Link Text][1]
+[My GitHub Profile][1]
+[My LinkedIn Profile][2]
+[My Twitter Profile][3]
 
-[1]: https://www.example.com
+
+[1]: https://github.com/FaezehYazdani
+[2]: https://www.linkedin.com/in/faezehyazdani/
+[3]: https://twitter.com/FaeYazdani
 
  
 --- Math Expressions: Write mathematical expressions using LaTeX ---  
