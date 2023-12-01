@@ -2,7 +2,7 @@
 
 An exhaustive and comprehensive compilation of essential GitHub tips and tricks, serving as a comprehensive reference guide for both novice and experienced users. This cheat sheet encompasses a wide array of GitHub functionalities, offering insights into efficient workflow practices, advanced version control techniques, collaboration strategies, and effective utilization of GitHub's features.
 
-# Useful GitHub Markdown
+### Useful GitHub Markdown
 
 --- Markdown: Used for README files, issues, and pull requests ---  
 # Heading 1
@@ -36,11 +36,11 @@ public class Example {
 :smiley: :rocket: :octocat:
 
 --- Headers and Links: Create links and headers ---  
-[GitHub]([https://www.example.com](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg))
-### Section Header
+[My GitHub Profile](https://github.com/FaezehYazdani)
+
 
 --- Images: Embed images ---  
-![Alt Text](https://example.com/image.jpg)
+![GitHub](![image](https://github.com/FaezehYazdani/GitHub-Pro/assets/25254193/eb85970d-e66a-42fa-b347-31a3f9b8aa8a))
 
 --- Quoting Text: Quote text ---  
 > This is a quote.
@@ -48,16 +48,8 @@ public class Example {
 --- Reference Links: Create reference links ---
 [Link Text][1]
 [1]: https://www.example.com
-
-
---- Mermaid Diagrams: Generate diagrams using the Mermaid syntax ---  
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-  
---- Math Expressions: Write mathematical expressions using LaTeX ---
+ 
+--- Math Expressions: Write mathematical expressions using LaTeX ---  
 $E = mc^2$
 
 ---  Strike Through: Strike through text ---  
