@@ -4,7 +4,7 @@ An exhaustive and comprehensive compilation of essential GitHub tips and tricks,
 
 # Useful GitHub Markdown
 
-1. Markdown:
+--- Markdown ---
 # Heading 1
 ## Heading 2
 *italic*, **bold**, `code`
